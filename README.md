@@ -1,3 +1,3 @@
 - Board: Promicro NRF52840(compatible with nice!nano v2.0)
 - Shield: [corne](https://github.com/foostan/crkbd) v3-final
-- Firmware: [ZMK](https://zmk.dev/). I use Bluetooth to replace the TRS table.
+- Firmware: [ZMK](https://zmk.dev/). I use Bluetooth to replace the TRS cable.
